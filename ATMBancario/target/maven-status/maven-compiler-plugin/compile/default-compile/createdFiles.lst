@@ -1,0 +1,15 @@
+com\mycompany\atmbancario\models\Conta.class
+com\mycompany\atmbancario\resources\JakartaEE10Resource.class
+com\mycompany\atmbancario\servlets\SaqueServlet.class
+com\mycompany\atmbancario\servlets\CadastroServlet.class
+com\mycompany\atmbancario\servlets\InvestimentoServlet.class
+com\mycompany\atmbancario\models\Usuario.class
+com\mycompany\atmbancario\models\UsuarioDAO.class
+com\mycompany\atmbancario\servlets\SaldoServlet.class
+com\mycompany\atmbancario\servlets\DepositoServlet.class
+com\mycompany\atmbancario\servlets\LoginServlet.class
+com\mycompany\atmbancario\servlets\ExtratoServlet.class
+com\mycompany\atmbancario\JakartaRestConfiguration.class
+com\mycompany\atmbancario\models\ContaDAO.class
+com\mycompany\atmbancario\servlets\TransferenciaServlet.class
+com\mycompany\atmbancario\db\DatabaseConnection.class
